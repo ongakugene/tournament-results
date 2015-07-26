@@ -3,6 +3,7 @@
 #### *Note : This repository contains the code for an educational project. No copyright infringement is intended.
 
 The project uses a Psycopg Python module alongside a Postgresql database to keep track of players and matches in a game tournament.
+The algorithm is based on Swiss pairing non-elimination method.
 The code conforms to PEP8 standards for Python.
 
 
